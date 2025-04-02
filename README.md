@@ -13,7 +13,8 @@
 
 - **백엔드**: Node.js, Nest.js, Express, RESTful API, WebSocket, WebRTC
 - **프론트엔드**: React, JavaScript, TypeScript
-- **기타**: 게임과 자동화를 사랑함
+- **데이터베이스:** MySQL, MariaDB, SQLite
+- **기타:** Python, Shell Script, Git
 
 ## 🚀 주요 프로젝트
 
