@@ -1,4 +1,4 @@
-# 안녕하세요, c99-dev입니다! 👋
+# 안녕하세요, 최성호입니다! 👋
 
 [![Followers](https://img.shields.io/github/followers/c99-dev?style=social)](https://github.com/c99-dev?tab=followers)
 [![Email](https://img.shields.io/badge/Email-c99%40kakao.com-orange)](mailto:c99@kakao.com)
