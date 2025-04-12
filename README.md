@@ -25,7 +25,6 @@
 ## 📫 연락처
 
 - 이메일: [c99@kakao.com](mailto:c99@kakao.com)
-- GitHub: [c99-dev](https://github.com/c99-dev)
 
 ---
 
