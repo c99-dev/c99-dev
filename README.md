@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech Stack
 
-- **백엔드**: Node.js, Nest.js, Express, RESTful API, WebSocket, WebRTC, Python
+- **백엔드**: Node.js, Express, RESTful API, WebSocket, WebRTC, Python
 - **프론트엔드**: React, JavaScript, TypeScript
 - **데이터베이스:** MySQL, MariaDB, SQLite
 - **기타:** Shell Script, Git
