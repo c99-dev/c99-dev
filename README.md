@@ -17,8 +17,6 @@
 - **데이터베이스:** MySQL, MariaDB, SQLite
 - **기타:** Shell Script, Git
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cute_jjang)](https://solved.ac/cute_jjang/) <br />
-
 ## 🏆 GitHub 통계
 
 ![c99-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=c99-dev&show_icons=true&theme=radical)
