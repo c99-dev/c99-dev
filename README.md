@@ -17,12 +17,6 @@
 - **데이터베이스:** MySQL, MariaDB, SQLite
 - **기타:** Shell Script, Git
 
-## 🏆 GitHub 통계
-
-![c99-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=c99-dev&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c99-dev&layout=compact&theme=radical)
-
 ---
 
 ✨ _방문해주셔서 감사합니다!_ ✨
