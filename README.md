@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&lines=Python+%2F+FastAPI+Backend+Engineer;Robotics+%26+Real-time+Systems;Production+Experience+%C2%B7+Automation+%C2%B7+Reliability)](https://git.io/typing-svg)
 
 [![Profile views](https://komarev.com/ghpvc/?username=c99-dev&label=Profile+views&color=6366f1&style=for-the-badge)](https://github.com/c99-dev)
-[![Open to opportunities](https://img.shields.io/badge/Open_to-New_Opportunities-22c55e?style=for-the-badge&logo=handshake&logoColor=white)](mailto:c99@kakao.com)
+[![Open to opportunities](https://img.shields.io/badge/Open_to-New_Opportunities-22c55e?style=for-the-badge&logo=handshake&logoColor=white)](#contact)
 
 </div>
 
@@ -81,12 +81,12 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=c99-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&locale=kr" alt="Seongho's GitHub stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c99-dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&exclude_repo=translated-content" alt="Most used languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c99-dev&theme=tokyonight" alt="Seongho's GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c99-dev&theme=tokyonight" alt="Repositories per language" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=c99-dev&theme=tokyonight&hide_border=true&locale=ko" alt="GitHub streak" />
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c99-dev&theme=tokyonight" alt="GitHub profile details" />
 </div>
 
 <div align="center">
@@ -95,7 +95,11 @@
 
 <br/>
 
+<a id="contact"></a>
+
 ## 📫 Contact
+
+문의 이메일: **c99@kakao.com**
 
 <div align="center">
 
