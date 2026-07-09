@@ -74,7 +74,7 @@
 
 | 프로젝트 | 설명 | 기술 |
 | :-- | :-- | :-- |
-| **[Japari](https://github.com/c99-dev/Japari)** · [Demo](https://youtu.be/UPiqGuqcN2c) | WebRTC 화상 대화·실시간 채팅·미니게임을 결합한 4인 팀 프로젝트. 화상 기능과 소켓 통신, 배포 환경을 담당했습니다. | TypeScript, NestJS, WebRTC, Socket.IO, MySQL, Redis |
+| **[Japari](https://github.com/c99-dev/Japari)** | WebRTC 화상 대화·실시간 채팅·미니게임을 결합한 4인 팀 프로젝트. 화상 기능과 소켓 통신, 배포 환경을 담당했습니다. | TypeScript, NestJS, WebRTC, Socket.IO, MySQL, Redis |
 | **[칼바람 랜덤픽](https://github.com/c99-dev/c99-dev.github.io)** · [Live](https://xn--qn1bv2fnb48zez1asij.xn--h32bi4v.xn--3e0b707e/) | 실제 사용자 피드백으로 개선해 온 LoL ARAM 챔피언 선택 서비스. Google Analytics 기준 2,700명 이상이 사용했습니다. | React, Node.js, GitHub Pages, DDragon API |
 | **[Which-OTT](https://github.com/c99-dev/Which-OTT)** | 사용자 데이터를 기반으로 OTT 서비스를 추천하는 팀 프로젝트. DB 설계, 백엔드 개발과 서비스 배포를 담당했습니다. | Python, Flask, MariaDB |
 
