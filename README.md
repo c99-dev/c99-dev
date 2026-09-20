@@ -59,12 +59,7 @@ API를 만들고, 운영 중 발생하는 문제를 추적하고 개선하는 �
   <img width="330" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c99-dev&theme=tokyonight" alt="공개 저장소의 언어별 분포" />
 </div>
 
-<details>
-<summary>활동 그래프 펼쳐 보기</summary>
-
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c99-dev&theme=tokyonight" alt="GitHub 기여 활동 그래프" />
-
-</details>
 
 <a id="contact"></a>
 
