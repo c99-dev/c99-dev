@@ -17,6 +17,7 @@ API를 만들고, 운영 중 발생하는 문제를 추적하고 개선하는 �
 
 GitHub 코드·이슈 분석 서비스 · 팀 프로젝트
 
+- **개발 기간:** 2025.04–2025.06 (후속 개선: 2025.07)
 - **기여:** 코드 검색·분석, Express–Flask 연동과 인덱싱의 백그라운드 처리 구현
 - **기술:** Python · Flask · Express · FAISS
 - **상태:** 운영 종료. 코드와 개발 문서를 공개하고 있습니다.
@@ -25,6 +26,7 @@ GitHub 코드·이슈 분석 서비스 · 팀 프로젝트
 
 화상·음성 대화와 그림 맞히기 게임 · 4인 팀 프로젝트
 
+- **개발 기간:** 2022.11–2022.12
 - **기여:** 소켓 모듈·게임방 예외 처리 구현, 팀원과 WebRTC 연결 개발
 - **기술:** TypeScript · NestJS · Socket.IO · WebRTC
 - **문서:** [프로젝트 Wiki](https://github.com/boostcampwm-2022/web36-Japari/wiki)
@@ -34,8 +36,16 @@ GitHub 코드·이슈 분석 서비스 · 팀 프로젝트
 LoL ARAM 챔피언 선택 서비스
 
 - **기여:** 챔피언 추첨·밴·리롤 기능 구현과 사용자 피드백 반영
-- **기술:** React · GitHub Pages
-- **서비스:** [사용해 보기](https://xn--qn1bv2fnb48zez1asij.xn--h32bi4v.xn--3e0b707e/)
+- **기술:** React · Vite · OCI Nginx · GitHub Actions
+- **서비스:** [사용해 보기](https://aram.c99-dev.com/)
+
+### [TFT 조합 탐색기](https://tft.c99-dev.com/)
+
+기물·상징·팀 슬롯 조건에 맞는 TFT 조합을 찾는 웹 서비스
+
+- **기능:** 필수·제외 기물과 목표 특성 설정, 조합 비교·조건 공유·팀 코드 복사
+- **기술:** React · TypeScript · Rust · WebAssembly
+- **서비스:** [사용해 보기](https://tft.c99-dev.com/)
 
 ### 이전 프로젝트
 
