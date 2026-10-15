@@ -53,14 +53,9 @@ LoL ARAM 챔피언 선택 서비스
 
 ## 📊 GitHub 활동
 
-<details>
-<summary>공개 저장소 활동 통계 보기</summary>
-
 ![공개 저장소 기준 GitHub 활동 통계](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=c99-dev&theme=tokyonight)
 ![공개 저장소의 언어별 분포](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=c99-dev&theme=tokyonight)
 ![GitHub 기여 활동 그래프](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=c99-dev&theme=tokyonight)
-
-</details>
 
 <a id="contact"></a>
 
