@@ -31,7 +31,7 @@ GitHub 코드·이슈 분석 서비스 · 팀 프로젝트
 - **기술:** TypeScript · NestJS · Socket.IO · WebRTC
 - **문서:** [프로젝트 Wiki](https://github.com/boostcampwm-2022/web36-Japari/wiki)
 
-### [칼바람 랜덤픽](https://github.com/c99-dev/c99-dev.github.io)
+### [칼바람 랜덤픽](https://github.com/c99-dev/aram-random-pick)
 
 LoL ARAM 챔피언 선택 서비스
 
