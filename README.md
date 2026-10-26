@@ -15,14 +15,6 @@ API를 만들고, 운영 중 발생하는 문제를 로그와 데이터에서 �
 
 ## 🧩 개인·커뮤니티 프로젝트
 
-### [Riftscuttler](https://c99-dev.github.io/#riftscuttler)
-
-Discord 커뮤니티 운영 봇 · **기존 봇을 이어서 기능 개발·운영**
-
-- 내전·경매 참여 집계, 포인트 산정과 프로필·퀘스트 UI를 개선했습니다.
-- SQLite 기반 상태 저장·복구를 다루고, 회귀 테스트와 운영 로그로 변경을 확인했습니다.
-- Python · discord.py · SQLite
-
 ### [TFT 조합 탐색기](https://tft.c99-dev.com/)
 
 기물·상징·팀 슬롯 조건에 맞는 조합을 찾는 개인 웹 서비스
